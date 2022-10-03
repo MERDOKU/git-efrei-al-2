@@ -90,4 +90,4 @@ Dans l'autre branche :
 
 1. Vous appliquerez les changements contenus dans le stash via la commande `git stash apply`.
 
-Test
+Test 2
