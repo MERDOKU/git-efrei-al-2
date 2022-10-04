@@ -95,5 +95,13 @@ Test 2
 Yo?
 He
 Bordel
+<<<<<<< HEAD
 Hein?\
 Exercice
+=======
+Hein?
+
+\Vrai exercice yes aller\
+Ceci est la branche main\
+Changement
+>>>>>>> exercice
